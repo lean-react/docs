@@ -1,5 +1,8 @@
 # Next.js build
 /.next/
 
+# Next.js static export
+/out/
+
 # NPM deps
 /node_modules/
