@@ -1,2 +1,5 @@
+# Next.js build
+/.next/
+
 # NPM deps
 /node_modules/
