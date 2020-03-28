@@ -1,9 +1,10 @@
-import '../styles/base.css';
-
-const home = () => (
-  <header className="bg-gray-800 text-white flex justify-center">
-    <h1 className="text-4xl py-12 text-teal-400">React Docs</h1>
-  </header>
+const Home = () => (
+  <>
+    <header className="bg-gray-800 text-white text-center text-xl">
+      <h1 className="text-4xl py-10 text-teal-300">Lean React</h1>
+      <p className="pb-8">Dokumente, Tipps und Resourcen</p>
+    </header>
+  </>
 );
 
-export default home;
+export default Home;
